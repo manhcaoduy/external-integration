@@ -1,5 +1,6 @@
 name: Morpho
 icon: logo.png
+category: 'vault'
 metadata:
   pt:
     - chainId: 1
