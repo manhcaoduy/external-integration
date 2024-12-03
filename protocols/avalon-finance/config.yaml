@@ -9,6 +9,11 @@ metadata:
       integrationUrl: >-
         https://app.avalonfinance.xyz/reserve-overview/?underlyingAsset=0x23e479ddcda990e8523494895759bd98cd2fdbf6&marketName=proto_mainnet_v3
       description: Supply PT on Avalon Finance to receive extra yield and avalon points.
+    - chainId: 1
+      address: '0x23e479ddcda990e8523494895759bd98cd2fdbf6'
+      integrationUrl: >-
+        https://app.pendle.finance/trade/markets?chain=ethereum&chain=base
+      description: Pendle page for testing.
     # Ethereum PT-LBTC-27MAR2025
     - chainId: 1
       address: '0xec5a52c685cc3ad79a6a347abace330d69e0b1ed'
